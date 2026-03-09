@@ -4,3 +4,5 @@
   maybe state that a file is being created or edited, along with the name of the file being modified. Also, put this into a
   new component and write tests for it. 
   This is a tough task, so, ultrathink about the best way to implement it.
+4. write test for the @src/lib/auth.ts                                                                                         
+5. write test for the creaeSession function.
